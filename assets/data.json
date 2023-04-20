@@ -1,0 +1,23 @@
+[
+    {"codigo":1,
+    "titulo":"gato",
+    "imagen":"assets/img/gato.avif",
+    "descripcion": "por agregar."
+    },
+    {"codigo":2,
+    "titulo":"perro",
+    "imagen":"assets/img/perro.avif",
+    "descripcion": "por agregar."
+    },
+    {"codigo":3,
+    "titulo":"leona",
+    "imagen":"assets/img/leona.jpg",
+    "descripcion": "por agregar."
+    },
+    {"codigo":4,
+    "titulo":"leopardo",
+    "imagen":"assets/img/leopardo.jpg",
+    "descripcion": "por agregar."
+    }
+
+]
